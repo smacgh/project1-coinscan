@@ -1,5 +1,6 @@
 import cv2
-# This will interface with a infared proximity sensor
+import matplotlib
+# This will interface with ultrasonic sensor!
 #
 #   Checks the surface height and gives a matrix
 #   Compare to a database of "ideal coins"
