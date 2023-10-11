@@ -5,3 +5,5 @@ import matplotlib
 #   Checks the surface height and gives a matrix
 #   Compare to a database of "ideal coins"
 #   Circle affected area of possible defect
+
+print ("hello world")

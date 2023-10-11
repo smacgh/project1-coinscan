@@ -5,3 +5,5 @@ import cv2
 #       identify year
 #       Magnify image size
 #       Stage1: give out % readings on potential misprints
+
+print ("hello world")

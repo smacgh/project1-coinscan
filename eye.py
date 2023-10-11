@@ -5,3 +5,5 @@ import cv2
 #       Rotate object until it matches something in the database
 #       Percantage of certainty indicator
 #       Will need a special camera
+
+print ("hello world")
